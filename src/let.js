@@ -1,5 +1,5 @@
 var buttons = document.querySelectorAll('button');
-console.log(buttons)
+console.log(buttons);
 
 for (let i = 0; i < buttons.length; i++) {
     var button = buttons[i];
